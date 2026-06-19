@@ -1,0 +1,23 @@
+Project Title: Electronic Medical Record (EMR) System – Wrenwood Community Healthcare
+
+This project is a web-based PHP application designed to manage patient records for a medical practice. It allows users to search for patients, view patient history, and add new patient records and medical events.
+
+The system uses a MySQL database with three main tables:
+
+* Patients
+* Procedures
+* Patient History
+
+All required functionality has been implemented, including:
+
+* Searching for patients by name
+* Viewing patient history by patient ID
+* Adding new patients
+* Adding new patient history records
+
+Known Issues:
+
+* The patient history search page may produce errors if there is a mismatch between database column names and the PHP code.
+* The interface is basic and does not include advanced styling.
+
+Overall, the system meets the project requirements and demonstrates core PHP and MySQL integration.
