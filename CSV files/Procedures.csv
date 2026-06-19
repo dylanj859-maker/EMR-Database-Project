@@ -1,0 +1,21 @@
+Procedure Name,Billing Code,Cost,Doctor
+Annual Physical Exam,AP100,150,Dr. Smith
+Routine Check-Up,RC101,100,Dr. Johnson
+Blood Pressure Screening,BP102,50,Dr. Lee
+Cholesterol Test,CT103,75,Dr. Brown
+Blood Glucose Test,BG104,70,Dr. Davis
+Flu Shot,FS105,40,Dr. Wilson
+COVID-19 Test,CV106,60,Dr. Taylor
+Allergy Testing,AT107,120,Dr. Anderson
+Minor Wound Care,MW108,90,Dr. Thomas
+Skin Treatment,ST109,85,Dr. Jackson
+Ear Infection Treatment,EI110,95,Dr. White
+Urinalysis,UR111,65,Dr. Harris
+EKG Test,EKG112,200,Dr. Martin
+Preventative Screening,PS113,130,Dr. Thompson
+Weight Management,WM114,110,Dr. Garcia
+Smoking Cessation,SC115,100,Dr. Martinez
+Prescription Management,PM116,80,Dr. Robinson
+Health Risk Assessment,HR117,120,Dr. Clark
+Follow-Up Visit,FU118,90,Dr. Rodriguez
+Vaccination Administration,VA119,50,Dr. Lewis
